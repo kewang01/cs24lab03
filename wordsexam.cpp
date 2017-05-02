@@ -6,7 +6,7 @@
 #include <string>
 #include "words2.h"
 using namespace std;
-using namespace lab04_2;
+using namespace lab03_2;
 
 // PROTOTYPES for functions used by this test program:
 string test1(); // tests basic features
